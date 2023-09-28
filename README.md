@@ -64,3 +64,5 @@ Nx comes with local caching already built-in (check your `nx.json`). On CI you m
 
 
 https://youtu.be/CTatGlQJmyg?t=89
+
+https://create-react-app.dev/docs/debugging-tests/
